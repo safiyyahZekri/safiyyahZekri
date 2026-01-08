@@ -1,6 +1,6 @@
 Hey, I am Safiyyah Ahmad.
-I am interested in software engineering.
-I am currently learning problem solving using c++ .
+I am interested in many fields , including computer engineering.
+Computer engineering Undergrad .
 I am looking to collaborate with ANYONE as long as I can!
 - 📫 How to reach me ahmadsafiyyah@gmail.com 
 
